@@ -1,0 +1,4 @@
+prices_topic: prices
+volatility_topic: volatility
+bootstrap_server: localhost:9092
+delay_for_dev: true
